@@ -6,5 +6,5 @@ Update number<br>
 Update Email<br>
 Update Name<br>
 Update Password<br>
-For Password it will send you one Otp You have give correct input of your Otp Otherwise it will Denied to Update yor Password<br>
+For Password it will send you one Otp You have to give correct input of your Otp Otherwise it will Denied to Update yor Password<br>
 it will provides LogOut Feature Also
